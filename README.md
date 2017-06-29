@@ -2,4 +2,4 @@
 I made this website following a tutorial to practice building responsive websites.
 
 The following is a simple screenshot of the webpage: 
-![My image](github.com/codeandproduce/repository/screenshot.png)
+![My image](http://imgur.com/a/zeyhV)
